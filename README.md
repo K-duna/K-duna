@@ -1,6 +1,7 @@
 # Hello world!
 
 I'm here to learn Frontend!
-- 🐷 vegan
+
+- 🐷 I'm vegan
 - 🐕 I have adopted dog from shelter
 
